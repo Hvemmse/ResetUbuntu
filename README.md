@@ -7,6 +7,7 @@ g++ -o resetubuntuuk resetubuntuuk.cpp `pkg-config --cflags --libs gtk+-3.0`
 </code>
 or
 <code>
-g++ -o resetubuntu resetubuntu.cpp `pkg-config --cflags --libs gtk+-3.0` for the danish verson
+g++ -o resetubuntu resetubuntu.cpp `pkg-config --cflags --libs gtk+-3.0` 
 </code>
 
+for the danish verson
