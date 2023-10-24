@@ -100,3 +100,5 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 
+// Kompilerings info 
+// g++ -o resetubuntuuk resetubuntuuk.cpp `pkg-config --cflags --libs gtk+-3.0`
