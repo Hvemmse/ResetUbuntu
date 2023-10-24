@@ -10,4 +10,6 @@ or
 g++ -o resetubuntu resetubuntu.cpp `pkg-config --cflags --libs gtk+-3.0` 
 </code>
 
+<img src="main.png" alt="Picture of the main application">
+
 for the danish verson
